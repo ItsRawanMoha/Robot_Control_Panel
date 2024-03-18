@@ -1,6 +1,7 @@
 # Robot Control using XAMPP
 
-![image](https://github.com/ItsRawanMoha/Robot_Control_Panel/assets/156599594/9d4170dc-a87a-43a9-839f-636775aa0257) ![image](https://github.com/ItsRawanMoha/Robot_Control_Panel/assets/156599594/e47f6ab7-6987-4094-b228-e1e3078d5651)
+![image](https://github.com/ItsRawanMoha/Robot_Control_Panel/assets/156599594/6bb4902f-7165-46c0-9fb3-ff7006bc5bab) ![image](https://github.com/ItsRawanMoha/Robot_Control_Panel/assets/156599594/8bc1533f-9d4e-4f75-8860-a16bf34d30c0)
+
 
 
 This project demonstrates how to create a webpage to control robot movement using XAMPP, a web server solution stack package developed by Apache Friends.
@@ -21,7 +22,7 @@ The webpage hosted on the XAMPP server contains buttons or controls that send co
 To get started with creating a webpage for robot control using XAMPP, you will need the following components:
 - Microcontroller (e.g., Arduino) 
 - XAMPP installed on your computer
-- Text editor or integrated development environment (IDE) for editing HTML, CSS, and JavaScript code
+- Text editor or integrated development environment (IDE) for editing HTML, CSS, and PHP code
 
 ## Steps
 
@@ -29,8 +30,8 @@ To get started with creating a webpage for robot control using XAMPP, you will n
 
 2. Install and configure XAMPP on your computer following the official installation instructions.
 3. Create a new folder in the XAMPP `htdocs` directory to store your webpage files.
-4. Create HTML, CSS, and JavaScript files for the webpage interface, including buttons or controls for robot movement.
-5. Write JavaScript code to send commands to the robot based on user interactions with the webpage controls.
+4. Create HTML, CSS, and PHP files for the webpage interface, including buttons or controls for robot movement.
+5. Write PHP code to send commands to the robot based on user interactions with the webpage controls.
 6. Test the webpage by accessing it through a web browser and verifying that it successfully controls the robot's movement.
 
 ### To start a MySQL database and phpMyAdmin using XAMPP:
@@ -106,7 +107,7 @@ Once the webpage is successfully created and hosted on XAMPP, users can access i
 
 ## Code
 
-Sample HTML, CSS, and JavaScript code for creating the webpage interface and controlling the robot's movement can be found in the file section above.
+Sample HTML, CSS, and PHP code for creating the webpage interface and controlling the robot's movement can be found in the file section above.
 
 ## Pictures
 
